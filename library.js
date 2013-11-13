@@ -4,7 +4,7 @@ var clearValues = function() {
 
     $('#author').val("");
 
-    $('#pubdate').val("");
+    $('#pubdate').val(""); 
 
     $('#description').val("");
 
